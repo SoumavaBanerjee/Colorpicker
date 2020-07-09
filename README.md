@@ -1,4 +1,4 @@
-# Coloroicker
+# Colorpicker
 A simple eyedropper tool made using python
 
 
